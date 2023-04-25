@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap");
+
+body {
+    font-family: roboto;
+}
+
+
+.logo {
+    width: 10rem;
+
+}
+
+.form-label {
+    font-family:"roboto";
+    font-size: 1rem;
+    
+}
+
+
+
+.priceNew {
+    font-size: 1.2rem;   
+
+}
+
+.priceOld {
+    text-decoration: line-through;
+}
